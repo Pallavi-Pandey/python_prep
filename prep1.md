@@ -1,0 +1,20 @@
+- Write a Python program to check if a string is a palindrome.
+- Write a Python program to find the factorial of a number.
+- Write a Python program to find the largest element in a list.
+- Write a Python program to reverse a string.
+- Write a Python program to check if a number is prime or not.
+- Write a Python program to count the frequency of each element in a list.
+- What is the difference between Python Arrays and lists?
+- What is slicing in Python? Write a python code to give example.
+- What is the difference between mutable and immutable?
+- What are lists and tuples? What is the key difference between the two?
+- What is Scope in Python?
+- What are global, protected and private attributes in Python?
+- What is docstring in Python?
+- Write a python program to sort a list in Python.
+- Write a python program to generate the square of every element of a list.
+- What is init in Python?
+- Explain the logical operations in Python.
+- What is the use of the pass, continue, break in Python? Write a code snippet to give example using these.
+- What are global and local variables in Python? Explain with exaple
+- Write a python program to select only odd numbers from a givin list.
